@@ -106,14 +106,30 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## 🌐 Usage
-```
-1. Select Fake News or Fake Review Detection
-2. Enter text OR paste news article URL
-3. Click Detect
-4. View:
-     .Prediction (Real/Fake)
-     .Confidence Score
-     .Important words (LIME)
-```
+
+- 1. Select Fake News or Fake Review Detection
+- 2. Enter text OR paste news article URL
+- 3. Click Detect
+- 4. View:
+     - .Prediction (Real/Fake)
+     - .Confidence Score
+     - .Important words (LIME)
+
 ## 📸 Screenshots
 <img width="1875" height="851" alt="Image" src="https://github.com/user-attachments/assets/c3ee5212-989f-446b-a84d-af1c60c393d7" />
+<img width="1847" height="869" alt="Image" src="https://github.com/user-attachments/assets/78f59c23-4236-40c6-8c12-ef311d4b8e17" />
+
+## 🎯 Key Highlights
+
+- ✔ Real-world NLP project
+- ✔ Deep Learning (RNN/LSTM) implementation
+- ✔ Explainable AI integration
+- ✔ Interactive UI (Streamlit)
+- ✔ End-to-end ML pipeline
+
+## 🔮 Future Improvements
+
+- Use Transformer models (BERT, RoBERTa)
+- Add multilingual support
+- Deploy on cloud (AWS / Render / HuggingFace)
+- Improve dataset quality
