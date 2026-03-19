@@ -116,3 +116,4 @@ streamlit run app.py
      .Important words (LIME)
 ```
 ## 📸 Screenshots
+<img width="1875" height="851" alt="Image" src="https://github.com/user-attachments/assets/c3ee5212-989f-446b-a84d-af1c60c393d7" />
